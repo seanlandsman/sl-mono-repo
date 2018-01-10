@@ -1,0 +1,24 @@
+[submodule "packages/ag-grid"]
+	path = packages/ag-grid
+	url = https://github.com/seanlandsman/ag-grid.git
+[submodule "packages/ag-grid-docs"]
+	path = packages/ag-grid-docs
+	url = https://github.com/seanlandsman/ag-grid-docs.git
+[submodule "packages/ag-grid-enterprise"]
+	path = packages/ag-grid-enterprise
+	url = https://github.com/seanlandsman/ag-grid-enterprise.git
+[submodule "packages/ag-grid-react"]
+	path = packages/ag-grid-react
+	url = https://github.com/seanlandsman/ag-grid-react.git
+[submodule "packages/ag-grid-angular"]
+	path = packages/ag-grid-angular
+	url = https://github.com/seanlandsman/ag-grid-angular.git
+[submodule "packages/ag-grid-vue"]
+	path = packages/ag-grid-vue
+	url = https://github.com/seanlandsman/ag-grid-vue.git
+[submodule "packages/ag-grid-aurelia"]
+	path = packages/ag-grid-aurelia
+	url = https://github.com/seanlandsman/ag-grid-aurelia.git
+[submodule "packages/ag-grid-polymer"]
+	path = packages/ag-grid-polymer
+	url = https://github.com/seanlandsman/ag-grid-polymer.git
